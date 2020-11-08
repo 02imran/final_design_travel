@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111588083813",
+    "firebase_url": "https://trip-bangladesh-a45b0.firebaseio.com",
+    "project_id": "trip-bangladesh-a45b0",
+    "storage_bucket": "trip-bangladesh-a45b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111588083813:android:f6417779aa7e1aaaf31e8c",
+        "android_client_info": {
+          "package_name": "trendyfair.com.final_design_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111588083813-vmkmht5lgqehvl7fsok37vp12pprp0ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trendyfair.com.final_design_travel",
+            "certificate_hash": "0e0715648ec854ea87a3c218b80ad4d4132cdc67"
+          }
+        },
+        {
+          "client_id": "111588083813-f9vne85r1r68u4bp9uqg93am80lq1vq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDKwAXfFjM-MWszNAkyaQXOzswhqSsVTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111588083813-f9vne85r1r68u4bp9uqg93am80lq1vq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
