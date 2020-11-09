@@ -7,7 +7,7 @@ import 'package:final_design_travel/models/popular_model.dart';
 import 'package:final_design_travel/models/recommended_model.dart';
 import 'package:final_design_travel/screens/selected_place_screen.dart';
 import 'package:final_design_travel/tab_bar/main_tab_bar.dart';
-import 'package:final_design_travel/widgets/botton_navigation_bar.dart';
+import 'package:final_design_travel/widgets/bottom_navigation_bar.dart';
 import 'package:final_design_travel/widgets/search_bar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: SearchBar('Search Item'),
       drawer: MainDrawer(),
-      bottomNavigationBar: BottomNavigationBarTravel(),
+      bottomNavigationBar: NewNavigationBar(),
       body: SafeArea(
         child: Container(
           child: ListView(
